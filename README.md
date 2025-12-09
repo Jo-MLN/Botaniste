@@ -1,2 +1,3 @@
-# Botaniste
-Projet scientifique d'application de memo/calendrier pour le projet international du Lycée Joliot Curie 2025-2026
+# BIEVENU SUR LE PROJET SCIENTIFIQUE DE NOTRE GROUPE
+
+__ Projet par J.MOLINA, G.THRIERR, N.HAUTEMER, C.BOUVIER __
